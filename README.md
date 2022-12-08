@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ByAxios
-- 👀 I’m interested in Javascript/Flutter/
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Javascript/Node Js/Vue.js/MongoDb
+- 🌱 I’m currently learning Vue Js
+
 
 <!---
 ByAxios/ByAxios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
