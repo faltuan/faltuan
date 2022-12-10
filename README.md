@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ByAxios
-- 👀 I’m interested in Javascript/Node Js/Vue.js/MongoDb
+- 👀 I’m interested in Javascript / Node Js / Vue.js / React Js / MongoDb
 - 🌱 I’m currently learning Vue Js
 
 
