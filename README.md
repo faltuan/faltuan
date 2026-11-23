@@ -1,15 +1,34 @@
+### Hi, I'm Faltuan
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faltuan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=faltuan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faltuan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Software developer & open-source contributor focused on **Android (Kotlin / Jetpack Compose)**, **JavaScript / TypeScript**, and lightweight **offline-first Progressive Web Apps (PWAs)**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faltuan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I enjoy contributing features, bug fixes, and unit-tested improvements to privacy-respecting open-source projects, as well as building practical everyday utilities.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faltuan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Open Source Contributions
+
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| [meypod/al-azan-compose](https://github.com/meypod/al-azan-compose) | Quick static location switching on Home screen with unit tests ([PR #61](https://github.com/meypod/al-azan-compose/pull/61), Closes #5) | Open |
+
+---
+
+### Selected Projects
+
+| Repository | Description | Stack |
+| :--- | :--- | :--- |
+| [Affinity-Designer-localizator](https://github.com/faltuan/Affinity-Designer-localizator) | CLI utility to translate macOS `.strings` localization files for Affinity apps | Node.js, JavaScript |
+| [namazvakitleri](https://github.com/faltuan/namazvakitleri) | Offline-capable prayer times Progressive Web App ([Live](https://faltuan.github.io/namazvakitleri/)) | PWA, Service Worker, JS |
+| [Qinla_Finder](https://github.com/faltuan/Qinla_Finder) | Lightweight browser-based Qibla compass using device orientation APIs ([Live](https://faltuan.github.io/Qinla_Finder/)) | HTML5, JS |
+| [fgoldprices.github.io](https://github.com/faltuan/fgoldprices.github.io) | Installable PWA for tracking gold prices ([Live](https://faltuan.github.io/fgoldprices.github.io/)) | PWA, JavaScript |
+| [radyoPlayer](https://github.com/faltuan/radyoPlayer) | Lightweight installable web radio player ([Live](https://faltuan.github.io/radyoPlayer/)) | PWA, Audio API |
+| [kpss](https://github.com/faltuan/kpss) | Weekly study schedule & exam preparation planner ([Live](https://faltuan.github.io/kpss/)) | Web App, JS |
+
+---
+
+### Core Stack
+
+- **Mobile:** Kotlin, Jetpack Compose, Android SDK, WorkManager, Coroutines & Flow
+- **Web & Backend:** TypeScript, JavaScript, Node.js, Express, Next.js, Vue / Nuxt, Tailwind CSS, PWA
+- **Tools & Data:** Git, Gradle, MongoDB, MariaDB, Nginx, Linux
